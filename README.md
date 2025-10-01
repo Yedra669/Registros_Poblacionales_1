@@ -1,2 +1,2 @@
-# Registros_Poblacionales_1
-Código usado para el texto.
+# Análisis poblacionales de registros electrofisiológicos
+Código usado para el texto

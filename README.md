@@ -34,6 +34,12 @@ En la carpeta `codigo/` se encuentran los notebooks de Jupyter utilizados para:
 
 ## Referencias
 
+La carpeta `Referencias/` contiene los trabajos académicos en los cuales nos apoyamos para la redacción del texto.
+
+---
+
+## Artículos Academicos
+
 La carpeta `Artículos/` contiene los trabajos académicos estudiados y citados en el texto, los cuales fundamentan los desarrollos teóricos presentados en el apéndice.
 
 ---

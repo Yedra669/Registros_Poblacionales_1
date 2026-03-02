@@ -1,6 +1,6 @@
 # 📊 Análisis poblacionales de registros electrofisiológicos
 
-Repositorio que contiene el desarrollo teórico, matemático y computacional del texto:
+Repositorio que contiene el desarrollo teórico y computacional del texto:
 
 **"Análisis poblacionales de registros electrofisiológicos"**
 
